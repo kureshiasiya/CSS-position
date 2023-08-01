@@ -1,0 +1,11 @@
+nav {
+  background-color: aqua;
+  color: black(255, 255, 255);
+  position: sticky;
+  top: 0;
+}
+
+p {
+  text-align: left;
+  width: 30%;
+}
